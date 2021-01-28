@@ -1,3 +1,10 @@
+//===============Principais ================//
+//Instala as dependencias
+npm install
+
+//rodar o projeto usando o nodemon
+nodemon app.js
+//=============================================
 Criar o arquivo package
 npm init
 
@@ -8,12 +15,6 @@ npm install express
 npm install -D nodemon
 
 //Como rodar projeto baixo
-
-//Instala as dependencias
-npm install
-
-//rodar o projeto usando o nodemon
-nodemon app.js
 
 //instalar o MongoDB
 npm install --save mongodb

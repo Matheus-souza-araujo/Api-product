@@ -13,7 +13,7 @@ const Products = new mongoose.Schema({
         type: Number,
         required: true,
     },
-    category: {
+    id_category: {
         type: String,
         required: true
     }
